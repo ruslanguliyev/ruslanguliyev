@@ -1,5 +1,5 @@
 ### Hi there👋
-## My Name is Ruslan and i'm ULTRA SENIOR DEVELOPER 
+## My Name is Ruslan
 
 ![](https://komarev.com/ghpvc/?username=ruslanguliyev)
 <br/>
