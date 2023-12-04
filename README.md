@@ -1,6 +1,6 @@
 
 👋 Hi there! I'm Ruslan Guluyev, a passionate Full Stack Developer. 
-🚀 Excited about creating innovative solutions and exploring new technologies. 
+     🚀 Excited about creating innovative solutions and exploring new technologies. 
 ✅ Check out my repositories to see my coding journey!
 
 ![](https://komarev.com/ghpvc/?username=ruslanguliyev-github-username&color=grey)
